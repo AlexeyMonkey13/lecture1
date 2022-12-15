@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\bin\Debug\net6.0\example003summ.exe
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\bin\Debug\net6.0\example003summ.deps.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\bin\Debug\net6.0\example003summ.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\bin\Debug\net6.0\example003summ.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\bin\Debug\net6.0\example003summ.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\refint\example003summ.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\example003summ.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example003summ\obj\Debug\net6.0\ref\example003summ.dll
