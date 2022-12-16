@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\bin\Debug\net6.0\example005ifelse.exe
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\bin\Debug\net6.0\example005ifelse.deps.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\bin\Debug\net6.0\example005ifelse.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\bin\Debug\net6.0\example005ifelse.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\bin\Debug\net6.0\example005ifelse.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\refint\example005ifelse.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\example005ifelse.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example005ifelse\obj\Debug\net6.0\ref\example005ifelse.dll
