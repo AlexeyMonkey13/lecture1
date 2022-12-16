@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\bin\Debug\net6.0\example006bBase.exe
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\bin\Debug\net6.0\example006bBase.deps.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\bin\Debug\net6.0\example006bBase.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\bin\Debug\net6.0\example006bBase.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\bin\Debug\net6.0\example006bBase.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\refint\example006bBase.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\example006bBase.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example006bBase\obj\Debug\net6.0\ref\example006bBase.dll
