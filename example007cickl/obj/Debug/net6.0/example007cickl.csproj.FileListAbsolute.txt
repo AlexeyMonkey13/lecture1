@@ -1,0 +1,15 @@
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\bin\Debug\net6.0\example007cickl.exe
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\bin\Debug\net6.0\example007cickl.deps.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\bin\Debug\net6.0\example007cickl.runtimeconfig.json
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\bin\Debug\net6.0\example007cickl.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\bin\Debug\net6.0\example007cickl.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\refint\example007cickl.dll
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.pdb
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\example007cickl.genruntimeconfig.cache
+C:\Users\Alexey\Desktop\Новая папка\lecture1\example007cickl\obj\Debug\net6.0\ref\example007cickl.dll
